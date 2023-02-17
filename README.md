@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinkeyssx" alt="kevinkeyssx" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/kevinkeyssx" target="blank"><img src="https://img.shields.io/twitter/follow/kevinkeyssx?logo=twitter&style=for-the-badge" alt="kevinkeyssx" /></a> </p>
+
 - 🔭 I’m currently working on **Universidad Adolfo Ibáñez**
 
 - 👯 I’m looking to collaborate on **UAI**
