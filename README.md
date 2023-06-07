@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **UAI**
 
-- 📄 Know about my experiences [https://profile-kevinkeyssx.vercel.app](https://profile-kevinkeyssx.vercel.app)
+- 📄 Know about my experiences [https://profile-kevinkeyssx.vercel.app](https://www.kevinkeyssx.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
