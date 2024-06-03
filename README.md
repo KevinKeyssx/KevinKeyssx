@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **UAI**
 
-- 📄 Know about my experiences [My Profile](https://www.kevinkeyssx.com)
+- 📄 Know about my experiences [My Profile](https://www.kevinkeyssx.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
